@@ -30,15 +30,15 @@ shadowsocks-ws 服务器使用的加密算法、密码和端口号分别可以�
 
 ### Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/9exsjX?referralCode=ssws)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WIFE-H?referralCode=1hhSJ5)
 
 ## 本地配置
 
 克隆代码到本地，安装依赖：
 
 ```shell
-$ git clone https://github.com/lvps123/ss-ws.git
-$ cd ss-ws
+$ git clone https://github.com/lvps123/ss-railway.git
+$ cd ss-railway
 $ npm i
 ```
 

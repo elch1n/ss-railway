@@ -37,8 +37,8 @@ shadowsocks-ws 服务器使用的加密算法、密码和端口号分别可以�
 克隆代码到本地，安装依赖：
 
 ```shell
-$ git clone https://github.com/totravel/shadowsocks-ws.git
-$ cd shadowsocks-ws
+$ git clone https://github.com/lvps123/ss-ws.git
+$ cd ss-ws
 $ npm i
 ```
 
